@@ -1,0 +1,4 @@
+﻿  Another Game.cpp
+C:\Users\nickd\Desktop\Code\C++\Another Game\Another Game\Another Game.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickd\Desktop\Code\C++\Another Game\Another Game\Another Game.cpp(80,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Another Game.vcxproj -> C:\Users\nickd\Desktop\Code\C++\Another Game\Debug\Another Game.exe
